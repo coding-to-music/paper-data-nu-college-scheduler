@@ -1,5 +1,5 @@
 {
-  "name": "paper.nu-data",
+  "name": "paper-data-nu-college-scheduler",
   "version": "1.0.0",
   "private": true,
   "type": "module",
@@ -7,7 +7,8 @@
   "prettier": "@dilanx/config/prettier",
   "main": "paper-data.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "deploy": "git add . && git commit -m Build && git push"
   },
   "author": "Dilan Nair (https://www.dilanxd.com)",
   "license": "ISC",

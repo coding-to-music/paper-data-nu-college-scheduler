@@ -1,3 +1,45 @@
+# paper-data-nu-college-scheduler
+
+# 🚀 Easily plan your years of courses at Northwestern University. 🚀
+
+https://github.com/coding-to-music/paper-data-nu-college-scheduler
+
+https://paper-data-nu-college-scheduler.vercel.app
+
+From / By https://github.com/dilanx/paper.nu
+
+## Environment variables:
+
+```java
+  const s3Client = new S3Client({
+    endpoint: 'https://nyc3.digitaloceanspaces.com',
+    region: 'nyc3',
+    credentials: {
+      accessKeyId: process.env.CDN_ACCESS_KEY,
+      secretAccessKey: process.env.CDN_ACCESS_SECRET,
+
+  await fetch(process.env.LOG_WEBHOOK, {
+
+const SERVER = 'https://northwestern-prod.apigee.net';
+
+export async function getTerms() {
+  const response = await fetch(`${SERVER}/student-system-termget/UGRD`, {
+    headers: { apikey: process.env.API_KEY },
+
+```
+
+## GitHub
+
+```java
+git init
+git add .
+git remote remove origin
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:coding-to-music/paper-data-nu-college-scheduler.git
+git push -u origin main
+```
+
 # paper.nu data automation
 
 ## Key mapping
