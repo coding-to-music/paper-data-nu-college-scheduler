@@ -10,6 +10,8 @@ From / By https://github.com/dilanx/paper.nu
 
 https://www.paper.nu/?
 
+https://github.com/dilanx/paper.nu-data
+
 ## Environment variables:
 
 ```java
