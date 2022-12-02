@@ -8,6 +8,8 @@ https://paper-data-nu-college-scheduler.vercel.app
 
 From / By https://github.com/dilanx/paper.nu
 
+https://www.paper.nu/?
+
 ## Environment variables:
 
 ```java
